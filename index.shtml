@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+    
+
+    <link rel="stylesheet" href="style.css">
+    <title>Sitio Web Personal</title>
+</head>
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+        <div class="container">
+            <a href="index.shtml" class="navbar-brand">
+                <img src="/img/logoB95016.png" class="img-fluid" alt="logo">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navOpciones">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+                <div class="collapse navbar-collapse" id="navOpciones">
+                <ul class="navbar-nav ms-auto">
+                
+                    <li class="nav-item">
+                        <a href="objetivos.shtml" class="nav-link">Mis Objetivos</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Computación
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="porque.shtml">Por Qué Computación</a></li>
+                            <li><a class="dropdown-item" href="cursosPreferidos.shtml">Cursos Preferidos</a></li>
+                            <li><a class="dropdown-item" href="personas.shtml">Profesorxs y Compañerxs</a></li>
+                            <li><a class="dropdown-item" href="descargas.shtml">Descargas</a></li>
+                        </ul>
+                    </li> 
+
+                    <li class="nav-item">
+                        <a href="pasatiempos.shtml" class="nav-link">Pasatiempos</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a href="acercaDe.shtml" class="nav-link">Acerca De Este Sitio</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="contacteme.shtml" class="nav-link">Contácteme</a>
+                    </li>
+  
+                </ul>
+                
+            </div>
+        </div>
+    </nav>
+
+    <!---Title-->
+    <section class="bg-dark text-light p-5 text-center">
+        <div class="container">
+            <div>
+                <div>
+                    <h1>Sebastián Montero Castro B95016</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+
+
+    <!--Info-->
+    <section id="learn"class="p-5">
+        <div class="container my-5">
+            
+            <h2>Pasos para resolver el problema</h2>
+            <h4>Diseño gráfico</h4>
+            <p>Realice un "dibujo" (diseño gráfico) de su sitio. Debe ser personal, es decir, debe representarle simbólicamente. Por ejemplo, si su pasión en la vida es el ajedrez puede utilizar el ajedrez como métafora del diseño. Para la conceptualización de su diseño gráfico puede ayudarse con el libro Principles of Beautiful Web Design.</p>
+            <h4>Traduzca su diseño gráfico a CSS y [X]HTML</h4>
+            <p>Realice una plantilla HTML en base al diseño gráfico. Debe hacer su diagramación con HTML 5 y CSS. No utilice tablas cuando su uso pervierta su semántica. Obligatoriamente debe utilizar el framework para front-end Bootstrap. Su diseño debe ser Mobile First y debe verse bien tanto en un dispositivo móvil como en escritorio. La plantilla debe ser lo más semántica posible. Para ello debe utilizar preprocesadores CSS. La presentación debe estar separada al máximo de su plantilla de manera tal que si se cambia su CSS es posible verla con otro diseño gráfico.</p>
+            <h4>Cree las páginas estáticas</h4>
+            <p>Todas las páginas deben tener el contenido pertinente. No haga un sitio de una página (que simule varias). Puede utilizar editores WYSIWYG como Dreamweaver (propietario), BlueGriffon (libre) o Visual Studio Code (gratuito). Se recomienda utilizar Visual Studio Code.</p>
+            <h4>Modularice</h4>
+            <p>Además deberá utilizar Server Side Includes para que cada archivo en realidad sólo sea contenido y se facilite el mantenimiento.</p>
+        </div>
+    </section>
+
+
+    <!--footer-->
+    <footer class="p-5 bg-dark text-white text-center">
+    <div class="container">
+        <p class = "lead">
+            <p>Universidad de Costa Rica</p>
+            <p>II Semestre - 2021</p>
+            <p>CI-0137 - Desarrollo de Aplicaciones Web</p>
+            <p>Profesor: Braulio Solano Rojas</p>
+        </p>
+        
+    </div>
+    </footer>
+</body>
+</html>
