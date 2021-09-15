@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <!--#include file="header.shtml"-->
+<!--#include file="navbar.shtml"-->
+
 
     <!---Title-->
     <section class="bg-dark text-light p-5 text-center">
@@ -31,7 +33,7 @@
             </div>
           </div>
     </section>
-    
+
     <!--#include file="footer.shtml"-->
 </body>
 </html>
