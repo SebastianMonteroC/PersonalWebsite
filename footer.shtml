@@ -13,17 +13,14 @@
     <title>Sitio Web Personal</title>
 </head>
 
-<body>
-
-    <!---Title-->
-    <section class="bg-dark text-light p-5 text-center">
-        <div class="container">
-            <div>
-                <div>
-                    <h1>Mis Objetivos</h1>
-                </div>
-            </div>
-        </div>
-    </section>
-</body>
-</html>
+<footer class="p-5 bg-dark text-white text-center">
+    <div class="container">
+        <p class = "lead">
+            <p>Universidad de Costa Rica</p>
+            <p>II Semestre - 2021</p>
+            <p>CI-0137 - Desarrollo de Aplicaciones Web</p>
+            <p>Profesor: Braulio Solano Rojas</p>
+        </p>
+        
+    </div>
+    </footer>
