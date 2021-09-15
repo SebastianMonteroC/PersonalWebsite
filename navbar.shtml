@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 
 <!--#include file="header.shtml"-->
-<!--#include file="navbar.shtml"-->
 <html>
     <body>
         <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
