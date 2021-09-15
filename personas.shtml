@@ -11,6 +11,68 @@
         </div>
     </section>
 
+    <section class="p-5">
+
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="col d-flex justify-content-left">
+                        <div class="card mb-3" style="max-width: 540px;">
+                            <div class="row g-0">
+                              <div class="col-md-4">
+                                <img src="./img/carlos.jpg" class="img-fluid rounded-start" alt="...">
+                              </div>
+                              <div class="col-md-8">
+                                <div class="card-body">
+                                  <h5 class="card-title">Carlos Espinoza</h5>
+                                  <p class="card-text">Mi pana Carlos me ha acompañado en muchos cursos (este incluído) y tenemos una buena dinámica de trabajo.</p>
+                                  <p class="card-text"><small class="text-muted">Carné: B92786</small></p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="col d-flex justify-content-left">
+                        <div class="card mb-3" style="max-width: 540px;">
+                            <div class="row g-0">
+                              <div class="col-md-4">
+                                <img src="./img/andrea.jpg" class="img-fluid rounded-start" alt="...">
+                              </div>
+                              <div class="col-md-8">
+                                <div class="card-body">
+                                  <h5 class="card-title">Andrea Alvarado</h5>
+                                  <p class="card-text">Mi compañera de tantos cursos, trabajos y crisis existenciales but also mi novia que amo mucho :)</p>
+                                  <p class="card-text"><small class="text-muted">Carné: B90272</small></p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                    </div>
+                </div>
+            </div>
+            <p></p>
+            <div class="row">
+                <div class="col">
+                    <div class="col d-flex justify-content-center">
+                        <div class="card mb-3" style="max-width: 540px;">
+                            <div class="row g-0">
+                              <div class="col-md-4">
+                                <img src="./img/braulio.jpg" class="img-fluid rounded-start" alt="...">
+                              </div>
+                              <div class="col-md-8">
+                                <div class="card-body">
+                                  <h5 class="card-title">Braulio Solano</h5>
+                                  <p class="card-text">El mejor profe de todos los tiempos. Llevé Sistemas Operativos con él y ahora Desarrollo Web.</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     <!--#include file="footer.shtml"-->
 </body>
 </html>

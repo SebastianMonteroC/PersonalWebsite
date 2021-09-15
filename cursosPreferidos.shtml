@@ -12,6 +12,45 @@
         </div>
     </section>
 
+    <section class="p-5">
+        <div class="container">
+            <p class="fs-3 text-center">Top 3 Mejores Cursos</p>
+            <hr>
+            <div>
+                <table class="table table-dark table-striped">
+                    <thead>
+                      <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Curso</th>
+                        <th scope="col">Profesor(a)</th>
+                        <th scope="col">Razón</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <th scope="row">1</th>
+                        <td>Programación I</td>
+                        <td>Edgar Casasola</td>
+                        <td>Aprendí a programar de manera limpia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">2</th>
+                        <td>Diseño de Software</td>
+                        <td>Julio Guzmán</td>
+                        <td>Aprendí muchísimas técnicas de desarrollo limpio y el profe es increíble</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">3</th>
+                        <td>Análisis de Algoritmos y Estructuras de Datos</td>
+                        <td>Arturo Camacho</td>
+                        <td>Un curso esencial con temas llamativos y un buen profesor</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                      
+            </div>
+        </div>
+    </section>
     <!--#include file="footer.shtml"-->
 </body>
 </html>

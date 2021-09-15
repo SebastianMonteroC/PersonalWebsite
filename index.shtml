@@ -13,10 +13,11 @@
     </section>
 
     <!--Info-->
-    <section id="learn"class="p-5">
+    <section class="p-5">
         <div class="container my-5">
             
-            <h2>Pasos para resolver el problema</h2>
+            <p class="fs-1 text-center">Pasos para resolver el problema</p>
+            <hr/>
             <h4>Diseño gráfico</h4>
             <p>Realice un "dibujo" (diseño gráfico) de su sitio. Debe ser personal, es decir, debe representarle simbólicamente. Por ejemplo, si su pasión en la vida es el ajedrez puede utilizar el ajedrez como métafora del diseño. Para la conceptualización de su diseño gráfico puede ayudarse con el libro Principles of Beautiful Web Design.</p>
             <h4>Traduzca su diseño gráfico a CSS y [X]HTML</h4>

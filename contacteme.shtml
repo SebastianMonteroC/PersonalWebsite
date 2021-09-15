@@ -12,6 +12,20 @@
         </div>
     </section>
 
+    <section class="p-5">
+
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 36rem;">
+                <div class="card-body">
+                    <h4 class="card-title">Sebastián Montero Castro</h4>
+                    <h6 class="card-subtitle mb-2 text-muted">Cédula: 1-1776-0928</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">Carné: B95016</h6>
+                    <p class="card-text">Correo electrónico: sebastian.monterocastro@ucr.ac.cr <br>Discord: SebasMontero#4532<br>Telegram: @SebasMonteroC</p>
+                </div>
+            </div>
+        </div>
+        
+    </section>
     <!--#include file="footer.shtml"-->
 </body>
 </html>

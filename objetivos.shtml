@@ -13,6 +13,31 @@
         </div>
     </section>
 
+    <section class="p-5">
+
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <p class="fs-1 text-center">Objetivos de Vida</p>
+                    <hr/>
+                    <ul class="list-group">
+                        <li class="list-group-item">1. Sobresalir en el ámbito profesional y laboral para asegurarme un futuro disfrutable.</li>
+                        <li class="list-group-item">2. Lograr tener una estabilidad económica para mantener a mis futuras decenas de mascotas.</li>
+                        <li class="list-group-item">3. Intentar llevar una vida tranquila considerando el inminente fin de este mundo distópico a causa del hipercapitalismo.</li>
+                      </ul>
+                </div>
+                <div class="col">
+                    <p class="fs-1 text-center">Objetivos del Curso</p>
+                    <hr/>
+                    <ul class="list-group">
+                        <li class="list-group-item">1. Aprender todo lo necesario (en términos técnicos) para la elaboración de páginas web de alta calidad.</li>
+                        <li class="list-group-item">2. Ser capaz de utilizar los conocimientos adquiridos en el curso en un ámbito laboral en el futuro.</li>
+                        <li class="list-group-item">3. Conocer más acerca de tecnologías utilizadas para la implementación de aplicaciones web en la actualidad.</li>
+                      </ul>
+                </div>
+            </div>
+        
+    </section>
     <!--#include file="footer.shtml"-->
 </body>
 </html>

@@ -11,6 +11,20 @@
         </div>
     </section>
 
+    <section class="p-5">
+        <div class="container">
+            <p class="fs-3 text-center">
+                Este sitio fue realizado completamente por mi persona, Sebastián Montero Castro B95016. Se utilizaron herramientas distintas para
+                su desarrollo, la principal de estas siendo Bootstrap. El diseño es bastante sencillo pero eficiente y funcional. El uso de 
+                Server Side Includes y aprender la semántica y sintaxis del lenguaje fueron las partes más desafiantes de la tarea.
+            </p>
+            
+            <div class="text-center">
+                <img src="./img/computer.gif" class="img-fluid" alt="logo">
+            </div>
+
+        </div>
+    </section>
     <!--#include file="footer.shtml"-->
 </body>
 </html>

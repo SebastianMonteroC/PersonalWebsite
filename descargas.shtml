@@ -12,6 +12,26 @@
         </div>
     </section>
 
+    <section class="p-5">
+        <div class="card">
+            <h5 class="card-header">Código Fuente de la Página</h5>
+            <div class="card-body">
+              <h5 class="card-title">Haga clic en el botón para descargar el código fuente de esta página.</h5>
+              <p class="card-text">La descarga incluye archivos HTML, CSS, Imágenes, etc.</p>
+              <a href="./download/sitioB95016.zip" class="btn btn-primary" download>Descargar</a>
+            </div>
+          </div>
+          <p></p>
+          <div class="card">
+            <h5 class="card-header">Foto de mi perrito guapo</h5>
+            <div class="card-body">
+              <h5 class="card-title">Haga clic en el botón para descargar una foto de mi perrito guapo.</h5>
+              <p class="card-text">La descarga incluye un JPG de Norman.</p>
+              <a href="./img/norman.jpg" class="btn btn-primary" download>Descargar</a>
+            </div>
+          </div>
+    </section>
+    
     <!--#include file="footer.shtml"-->
 </body>
 </html>

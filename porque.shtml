@@ -12,6 +12,17 @@
         </div>
     </section>
 
+    <section class="p-5">
+        <div class="container">
+            <p class="fs-3 text-center">
+                Desde pequeño he tenido un interés inmenso por la computación, la tecnología y la innovación. La constante
+                exposición a dispositivos electrónicos en mi generación fue la principal razón por la cual me quise adentrar
+                en este campo académico y laboral. Mi intención es poder aportar algo a la sociedad y ser exitoso en lo que hago
+                y a través de la computación esto se vuelve de suma facilidad lograr. 
+            </p>
+        </div>
+    </section>
+    
     <!--#include file="footer.shtml"-->
 </body>
 </html>

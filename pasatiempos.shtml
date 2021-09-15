@@ -11,6 +11,66 @@
         </div>
     </section>
 
+    <section class="p-5">
+
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="col d-flex justify-content-left">
+                        <div class="card" style="width: 36rem;">
+                            <div class="card-body text-center">
+                                <h4 class="card-title">Ir al gimnasio</h4>
+                                <p class="card-text">La actividad física ha sido un pilar esencial para mí en esta pandemia.
+                                    La salud mental se ve ligada a la salud física. En resumen: ooga booga levantar cosa pesada pone a cerebro feliz.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="col d-flex justify-content-left">
+                        <div class="card" style="width: 36rem;">
+                            <div class="card-body text-center">
+                                <h4 class="card-title">Escuchar música</h4>
+                                <p class="card-text">Solo en el 2020, según las estadísticas de Spotify, escuché 40 148 minutos de música. Cuando estoy
+                                    trabajando en tareas, cuando estoy haciendo ejercicio y básicamente en todo momento, la música me acompaña.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p></p>
+            <div class="row">
+                <div class="col">
+                    <div class="col d-flex justify-content-left">
+                        <div class="card" style="width: 36rem;">
+                            <div class="card-body text-center">
+                                <h4 class="card-title">Salir con mis amigxs</h4>
+                                <p class="card-text">Este es por mucho mi pasatiempo favorito y, debido a la pandemia, el que hago con menos frecuencia.
+                                    Ver a las personas que más amo en el mundo me llena de energía.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="col d-flex justify-content-left">
+                        <div class="card" style="width: 36rem;">
+                            <div class="card-body text-center">
+                                <h4 class="card-title">Jugar y ver basketball</h4>
+                                <p class="card-text">Desde los 8 años me encanta el baloncesto. Me encanta verlo (La NBA principalmente) y sobretodo
+                                    me encanta jugarlo. Mi equipo favorito es el Miami Heat y juego la posición de poste/alero.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+    </section>
     <!--#include file="footer.shtml"-->
 </body>
 </html>
