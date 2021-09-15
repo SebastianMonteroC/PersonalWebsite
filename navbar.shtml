@@ -17,10 +17,8 @@
                         <li class="nav-item">
                             <a href="objetivos.shtml" class="nav-link">Mis Objetivos</a>
                         </li>
-    
-                        
-    
-                      <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+
+                      <div class="nav-item collapse navbar-collapse" id="navbarNavDarkDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
